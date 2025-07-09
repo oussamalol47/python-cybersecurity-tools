@@ -41,7 +41,7 @@ A Windows machine tries to ping the Kali machine running this script.
   iptables -A INPUT -s \<ip\> -j DROP
   ```
 - The event is logged in `logs/log_*.txt`.
-![Blocked ip example](/example.png)
+![Blocked ip example](/example.PNG)
 
 ---
 
